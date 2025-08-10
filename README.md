@@ -46,7 +46,6 @@ directories, inspired conceptually by ext4.
 1. Build the project using:  
    ```bash
    ./build.sh
-```
 
 This compiles all sources with gcc13 on Ubuntu 24.04 using C17 standard.
 
